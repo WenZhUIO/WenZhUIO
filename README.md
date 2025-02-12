@@ -8,6 +8,9 @@
 - 📊 **Focus**: Building workflows, automating processes, and visualizing data for informed decision-making.
 - 🍀 **Quotes**: Life is a box of chocolate.
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=WenZhUIO.WenZhUIO)
+
 <!--
 **WenZhUIO/WenZhUIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
